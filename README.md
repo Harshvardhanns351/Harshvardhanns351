@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
-<h3 align="center">I'm HARSHVARDHAN SINGH</h3>
-<h4 align="center">🚀 Second Year Computer Engineering Student | Mumbai University</h4>
+<h3 align="center">I'm <b>HARSHVARDHAN SINGH</b></h3>
+<h4 align="center">🚀<b>Second Year Computer Engineering Student | Mumbai University</b></h4>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -67,10 +67,10 @@
 
 ## 🌐 Connect With Me
 <div align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"/></a>
 </div>
 
 ---

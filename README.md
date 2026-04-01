@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Cloud+DevOps,Production,Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Cloud+DevOps;Cloud+DevOps+Production&repeat=true" />
 </p>
 
 ---
